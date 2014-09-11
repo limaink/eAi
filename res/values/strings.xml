@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ganhei?</string>
+    <string name="action_settings">Settings</string>
+    <string name="qnt_num_jog">Quantos números possui os jogos?</string>
+    <string name="jogo">Digite seu jogo!</string>
+    <string name="tipo_jogo">Qual tipo de sorteio realizado?</string>
+    <string name="num_sorteado">Quais os números sorteados?</string>
+    <string name="validate">Comparar!</string>
+
+    <string-array name="lista_tipos_jogos">
+        <item>Sena</item>
+        <item>Quina</item>
+        <item>Lotofacil</item>
+    </string-array>
+
+    <string name="title_activity_resultado">Resultado</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_apostas">Apostas</string>
+
+</resources>
